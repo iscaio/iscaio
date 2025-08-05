@@ -1,9 +1,6 @@
 <h2 align="center"> Caio Andrade </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31taryc3src2w5nkvzjvgndtraby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-###  Sobre mim
+###  Sobre mim 
 
 - 💼 Desenvolvedor em formação, apaixonado por tecnologia  
 - 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
@@ -11,6 +8,10 @@
 - 📷 **Fotógrafo profissional** nas horas vagas
 - 🎯 Gosto de unir **criatividade e lógica**, tanto no código quanto nas imagens que capturo  
 - 🚀 **Buscando oportunidades de estágio** em desenvolvimento full stack  
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31taryc3src2w5nkvzjvgndtraby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="300"/>
+</a>
 
 ---
 
