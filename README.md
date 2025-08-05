@@ -33,7 +33,7 @@
 
 ###  Projetos em destaque
 
-- 🔐 [Login-Node-CRUD](https://github.com/iscaio/Login-Node-CRUD): API com autenticação JWT, CRUD completo, estrutura modular e documentação Swagger.
+- 🔐 [Login-Node-CRUD](https://github.com/iscaio/Login-Node-CRUD/tree/master): API com autenticação JWT, CRUD completo, estrutura modular e documentação Swagger.
 - 📚 Projeto Biblioteca (Java): sistema de gerenciamento de livros com autenticação, em desenvolvimento como estudo de arquitetura e boas práticas.
 
 ---
