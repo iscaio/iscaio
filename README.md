@@ -60,7 +60,7 @@
 ---
 
 ### 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=donut)](https://github.com/iscaio/github-readme-stats)
 
 ---
 
