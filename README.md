@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Ola%2C+sou+o+Caio+Andrade...;ou+iscaio...;Full+Stack+Devops.;Welcome!+xD)](https://git.io/typing-svg)
 </div>
 
-###  Sobre mim 
+
 
 - 💼 Desenvolvedor em formação, apaixonado por tecnologia  
 - 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
@@ -59,19 +59,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iscaioandrade)  [![Instagram](https://img.shields.io/badge/@iscaio-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iscaio)  
 
+
 ---
 
  <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iscaio&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Caio Andrade github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iscaio&show_icons=true&count_private=true&hide_border=true&title_color=eeeeee&icon_color=eeeeee&text_color=eeeeee&bg_color=0d1117" alt="Caio Andrade github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=compact&hide_border=true&title_color=eeeeee&text_color=eeeeee&bg_color=0d1117" />
   </div>
-
-[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iscaio&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/iscaio/github-readme-activity-graph)
 
 ---
 
 ### ⚡ Curiosidade
 
 > “Fotografia eterniza o momento, e o código constrói o futuro.”
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 </div>
