@@ -1,9 +1,9 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  schedule: # Atualiza todo dia às 23h59
-    - cron: "59 23 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
@@ -12,18 +12,21 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar Pac-Man
+      - name: Generate Pac-Man graph
         uses: Platane/snk@v3
         with:
           github_user_name: iscaio
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg
 
-      - name: Deploy no branch "output"
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit e push para output
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git branch -M output
+          git add pacman-contribution-graph*.svg
+          git commit -m "Update Pac-Man Contribution Graph" || echo "Nothing to commit"
+          git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
