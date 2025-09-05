@@ -1,7 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/> </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=F7F7F7&width=435&lines=Ola%2C+Eu+sou+o+Caio..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Ola%2C+sou+o+Caio+Andrade...;ou+iscaio...;Full+Stack+Devops.;Welcome!+xD)](https://git.io/typing-svg)
+</div>
+
 ###  Sobre mim 
 
 - 💼 Desenvolvedor em formação, apaixonado por tecnologia  
