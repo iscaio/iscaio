@@ -1,16 +1,13 @@
-name: Pac-Man Contribution Graph
+name: Generate Pac-Man
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch: # manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate Pac-Man graph
         uses: platane/snk@v3
@@ -20,12 +17,13 @@ jobs:
             pacman-contribution-graph.svg
             pacman-contribution-graph-dark.svg
 
-      - name: Push to output branch
+      - name: Push SVGs
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git checkout output
           git add pacman-contribution-graph*.svg
-          git commit -m "Update Pac-Man Contribution Graph" || echo "No changes to commit"
-          git push -u origin HEAD:output --force
+          git commit -m "Update Pac-Man" || echo "Nothing to commit"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
