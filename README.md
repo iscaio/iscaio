@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/> </div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=F7F7F7&width=435&lines=Ola%2C+Eu+sou+o+Caio..)](https://git.io/typing-svg)
 ###  Sobre mim 
 
@@ -8,9 +11,6 @@
 - 🎯 Gosto de unir **criatividade e lógica**, tanto no código quanto nas imagens que capturo  
 - 🚀 **Buscando oportunidades de estágio** em desenvolvimento full stack  
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31taryc3src2w5nkvzjvgndtraby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="300"/>
-</a>
 
 ---
 
@@ -59,11 +59,18 @@
 
 ---
 
-### 📊 Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=donut)](https://github.com/iscaio/github-readme-stats)
+ <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iscaio&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Caio Andrade github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
+  </div>
+
+[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iscaio&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/iscaio/github-readme-activity-graph)
 
 ---
 
 ### ⚡ Curiosidade
 
 > “Fotografia eterniza o momento, e o código constrói o futuro.”
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
+</div>
