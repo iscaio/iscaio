@@ -18,17 +18,17 @@
 
 ###  Tecnologias que estou estudando e usando
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
