@@ -70,11 +70,10 @@
 
 ---
 
- <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iscaio&show_icons=true&count_private=true&hide_border=true&title_color=eeeeee&icon_color=eeeeee&text_color=eeeeee&bg_color=0d1117" alt="Caio Andrade github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscaio&layout=compact&hide_border=true&title_color=eeeeee&text_color=eeeeee&bg_color=0d1117" />
-  </div>
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iscaio&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="caio's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iscaio&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+</p>
 ---
 
 ### ⚡ Curiosidade
