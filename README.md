@@ -43,7 +43,7 @@
 
 ###  Projetos em destaque
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=iscaio&repo=Login-Node-CRUD&theme=dark) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=iscaio&repo=ecommerce_nexari&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=iscaio&repo=logiroute&theme=tokyonight) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=iscaio&repo=ecommerce_nexari&theme=tokyonight)
 
 ---
 
